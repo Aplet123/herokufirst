@@ -1,5 +1,5 @@
 var express = require('express');
-var Discord = require("discord.js");
+console.log("test");
 var app = express();
 
 // set the port of our application
